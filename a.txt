@@ -1,3 +1,4 @@
 first line
 second line
 line from branch2
+second line of branch2
